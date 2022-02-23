@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+}
+.app {
+  background-color: rgb(20, 17, 17);
+  height: 1000px;
+}
+.app_part {
+  display: flex;
+}

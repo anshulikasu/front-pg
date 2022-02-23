@@ -1,0 +1,25 @@
+.reword {
+  background-color: rgb(31, 29, 29);
+}
+.reword {
+  color: white;
+  margin-top: 10px;
+  border-radius: 8px;
+  padding: 15px 25px;
+  object-fit: contain;
+}
+.reword_heading {
+  margin-top: 1px;
+}
+.input_copy {
+  margin-top: 10px;
+  width: 100%;
+  border-radius: 8px;
+  border: none;
+  height: 25px;
+  background-color: rgb(54, 52, 52);
+  color: white;
+}
+.reword > h5 {
+  color: lightgray;
+}

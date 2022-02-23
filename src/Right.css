@@ -1,0 +1,101 @@
+.right {
+  flex: 0.3;
+  margin-left: 20px;
+}
+.right_div {
+  display: flex;
+  margin-left: 1px;
+  justify-content: space-around;
+}
+.link {
+  color: white;
+  margin-left: 30px;
+}
+
+.right_div3 {
+  justify-content: space-around;
+  display: flex;
+  margin-top: 40px;
+  margin-left: 0px;
+}
+
+.button1 {
+  background-color: blue;
+  text-align: center;
+  padding: 5px 10px;
+  display: inline-block;
+  font-size: medium;
+  border-radius: 8px;
+  justify-content: space-between;
+  color: white;
+  border: none;
+}
+.button2 {
+  text-align: center;
+  padding: 5px 10px;
+  display: inline-block;
+  font-size: medium;
+  border-radius: 8px;
+  justify-content: space-between;
+  color: white;
+  background-color: black;
+  border: none;
+}
+.right_div2 {
+  margin-top: 20px;
+  margin-left: 40px;
+}
+.button_ava {
+  background-color: rgb(31, 29, 29);
+  background-size: 7px;
+  color: white;
+  margin-top: 20px;
+  text-align: center;
+  padding: 5px 10px;
+  display: inline-block;
+  font-size: medium;
+  border-radius: 8px;
+  border: none;
+}
+.button_ox {
+  box-sizing: 7px;
+  margin-top: 20px;
+  border-radius: 8px;
+  padding: 5px 8px;
+  text-align: center;
+  display: inline-block;
+  font-size: medium;
+  width: fit-content;
+  border: solid rgb(0, 98, 255);
+  background-color: black;
+  color: white;
+}
+.right_heading {
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 10px;
+  justify-content: center;
+  color: white;
+}
+.right_input {
+  margin-top: 30px;
+  color: gray;
+  margin-left: 70px;
+}
+.right_right > input {
+  margin-top: 30px;
+  color: white;
+  background-color: rgb(31, 29, 29);
+  margin: 5px;
+  border-radius: 8px;
+  padding: 7px 25px;
+  border: none;
+  margin-left: 70px;
+}
+.right_input > text {
+  color: white;
+}
+.right_input0 {
+  color: white;
+  height: 10%;
+}

@@ -1,0 +1,38 @@
+.table_header {
+  color: white;
+  background-color: rgb(31, 29, 29);
+  border: none;
+  border-radius: 8px;
+}
+.table {
+  width: 100%;
+  margin-top: 30px;
+  height: 100px;
+}
+.table1 {
+  width: 100%;
+  justify-content: space-evenly;
+  margin-top: 5px;
+}
+.table2 {
+  color: white;
+
+  border-radius: 8px;
+  border: none;
+}
+.header_blu {
+  text-decoration: underline blue;
+}
+.table_data {
+  color: white;
+}
+.table_para {
+  color: lightgrey;
+}
+.table_row {
+  margin-top: 10px;
+  margin-left: 15px;
+}
+#ddd {
+  text-decoration: underline blue;
+}

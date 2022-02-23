@@ -1,0 +1,34 @@
+.sidebar {
+  flex: 0.2;
+  margin-top: 1px;
+}
+.avtar_header {
+  display: flex;
+  justify-content: left;
+}
+.avtar_header > h1 {
+  color: white;
+}
+.icons {
+  color: lightgray;
+}
+.avtar_name {
+  color: white;
+  margin-top: 7px;
+  margin-left: 3px;
+}
+.ava {
+  width: 10px;
+  height: 10px;
+}
+.sidebar1 {
+  display: flex;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+#vertical_line {
+  width: 1px;
+  height: 500px;
+  background-color: white;
+}

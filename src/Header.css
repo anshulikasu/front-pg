@@ -1,0 +1,12 @@
+.header_lp {
+  background-color: blue;
+  height: 40px;
+  text-align: center;
+  color: azure;
+}
+.heading {
+  margin-top: 1px;
+  margin-bottom: 1px;
+  text-size-adjust: 1px;
+  text-decoration: none;
+}
